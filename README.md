@@ -1,9 +1,7 @@
 ### Hi, I'm Nick! ![Wave](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
 
-- 🔭 I’m currently working on full-stack development, visual computing, artificial intelligence, and software engineering
-- 🌱 I’m currently studying computer science at Brown University
+- 🔭 I’m a software engineer based in New York City and a computer science graduate of Brown University
 - 📫 How to reach me: [Send me an email](mailto:nick@bottone.io) or [connect with me on LinkedIn](https://www.linkedin.com/in/nicholasbottone/)
-- 😄 Pronouns: he/him
 
 ![Frameworks and languages](https://skillicons.dev/icons?i=ts,react,express,next,nodejs,mongodb,java,go,py,tensorflow,git,gcp,cloudflare,docker)
 
